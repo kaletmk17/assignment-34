@@ -23,3 +23,12 @@ for (const num of numbers)
 }
 console.log(sum);
 
+
+
+
+const fruits = ['apple', 'peaches', 'lemmon', 'mango', 'papaya']
+
+for (const fruit of fruits)
+{
+    console.log(`Hello ${fruit}`)
+}
